@@ -1,0 +1,2 @@
+# ClassFinder
+This Python script is intended to help find classes that satisfy more than one Gen Ed requirement. To use it, save a list of all of the classes that satisfy one requirement in a text file with each class on a new line, then do the same for the other requirement you'd like to satisfy. The script will prompt you to enter the filename of two lists. Make sure your list files are in the same directory as classfinder.py, then run classfinder.py and enter the filenames of the lists you've just made as you are prompted. Any common courses will be printed out. Enjoy :D
